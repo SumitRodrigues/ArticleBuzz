@@ -12,7 +12,7 @@ Elevate your content strategy - welcome to the future of article prediction!
 Installation
 
 1. Clone the repository:
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/SumitRodrigues/ArticleBuzz.git
 
 2. Install the required Python packages:
 pip install -r requirements.txt
